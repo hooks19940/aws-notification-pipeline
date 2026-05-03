@@ -1,7 +1,7 @@
 # AWS Automated Notification Pipeline
 
-An event-driven cloud automation system built entirely on AWS.
-Sends an automated email every day on a schedule — no servers,
+An event driven cloud automation system built entirely on AWS.
+Sends an automated email every day on a schedule no servers,
 no manual work, just cloud services working together.
 
 ## How it works
